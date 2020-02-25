@@ -2,6 +2,6 @@
 
 ## Tootsie Roll Website
 
-![Tootsie Roll Website](https://github.com/DeniseMylo/DeniseMylo.github.io/tree/master/TootsieRoll/image/assets/tootsieRollQR.jpg)
+![Tootsie Roll Website](https://github.com/DeniseMylo/DeniseMylo.github.io/blob/master/TootsieRoll/image/assets/tootsierollQR.jpg)
 
 Scan here ^
