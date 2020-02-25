@@ -1,3 +1,4 @@
+// By Denise Mylonakis
 
 $(window).scroll(function() {
    var value = $(this).scrollTop();
