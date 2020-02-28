@@ -2,7 +2,7 @@
 
 $(window).scroll(function() {
    var value = $(this).scrollTop();
-   if (value > 6500){
+   if (value > 6300){
       $(".artwork").attr("src", "./image/wrapper-3.png");
       document.getElementById("roll").style.display = 'none';
    }
