@@ -2,21 +2,21 @@
 
 $(window).scroll(function() {
    var value = $(this).scrollTop();
-   if (value > 6300){
+   if (value > 6100){
       $(".artwork").attr("src", "./image/wrapper-3.png");
       document.getElementById("roll").style.display = 'none';
    }
-   else if (value > 6000){
+   else if (value > 5700){
       $(".artwork").attr("src", "./image/wrapper-3.png");
       $(".roll").attr("src", "./image/roll3.png");
       document.getElementById("roll").style.display = 'block';
    }
-   else if (value > 5500){
+   else if (value > 5300){
       $(".artwork").attr("src", "./image/wrapper-3.png");
       $(".roll").attr("src", "./image/roll2.png");
       document.getElementById("roll").style.display = 'block';
    }
-   else if (value > 5000){
+   else if (value > 4900){
       $(".artwork").attr("src", "./image/wrapper-3.png");
       $(".roll").attr("src", "./image/roll1.png");
       document.getElementById("roll").style.display = 'block';
