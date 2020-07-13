@@ -1,19 +1,19 @@
-h1{font-family: 'Acme', sans-serif;}
-h2{font-family: 'Montserrat', sans-serif;}
-@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
 body {
-			font: 60px/300px "Fjalla One", sans-serif;
-			color: rgb(92,212,244);
-			text-shadow: 
-         2px 2px 0 #000,
-			 -1px -1px 0 #000,  
-			  1px -1px 0 #000,
-			  -1px 1px 0 #000,
-			   1px 1px 0 #000;
-			text-align: center;	
-			cursor: pointer;
-			user-select: none;
-			-moz-user-select: none;
-			-webkit-user-select: none;
-			background-color: rgb(92,212,244);
+    font: 30px/30px "Montserrat", sans-serif;
+    margin-left: 20px;
+    color: black;			
+    text-align: left;	
+    cursor: pointer;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    overflow: hidden;
+}
+img{
+    position:absolute;
+    max-width: 100%;
+    max-height: auto%;
+    left:0px;
+    top:0px;
+    z-index:-1;
 }
