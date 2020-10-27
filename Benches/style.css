@@ -54,24 +54,27 @@ body {
 }
 
 .pageBenchCity {
-    top: -180px;
+    top: -20%;
     right: 25%;
+    width: 55%;
 }
 
 .pageBenchGriffintown {
-    top: 110px;
+    top: 18%;
     right: 5%;
+    width: 60%;
 }
 
 .pageBenchPortuguese {
-    top: 300px;
+    top: 40%;
     right: 22%;
     width: 50%;
 }
 
 .pageBenchW {
-    top:100px;
-    right: 15%;
+    width: 55%;
+    top:20%;
+    right: 20%;
 }
 
 .pageContent {
