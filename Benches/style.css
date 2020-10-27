@@ -1,13 +1,14 @@
 body {
     background-image: url("./res/pages/blue\ background.png");
-    font-family: 'Libre Baskerville';
+    font-family: 'Libre Baskerville' !important;
 }
 
 .homeText {
-    font-size: 19px;
-    line-height: 50px;
+    font-size: 13pt;
+    line-height: 40px;
     color: white;
     text-align: center;
+    font-style: normal;
 }
 
 .navButtons {
