@@ -18,3 +18,7 @@ body {
     text-align: center;
 }
 
+
+.col-half-offset{
+    margin-left:4.166666667%
+}
