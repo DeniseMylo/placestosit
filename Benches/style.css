@@ -1,3 +1,19 @@
 body {
-    background-image: url("./res/pages/blue\ background.png");;
+    background-image: url("./res/pages/blue\ background.png");
+    font-family: 'Libre Baskerville';
 }
+
+.homeText {
+    font-size: 19px;
+    line-height: 50px;
+    color: white;
+    text-align: center;
+}
+
+.navButtons {
+    font-size: 12px;
+    line-height: 50px;
+    color: white;
+    text-align: center;
+}
+
