@@ -20,10 +20,16 @@ body {
 }
 
 .navButtonsPages {
+    position:absolute;
     font-size: 12px;
     line-height: 50px;
     color: blue;
     text-align: center;
+    z-index: 1;
+}
+
+.cityNav {
+    top: 2750px;
 }
 
 .pages {
@@ -34,13 +40,52 @@ body {
     margin-left:0%
 }
 
+.pageLogo {
+    position:absolute;
+    top: 40px;
+    right: 32%;
+    width: 13%;
+    z-index:10;
+}
+
+.pageBench {
+    position:absolute;
+    z-index: 2;
+}
+
+.pageBenchCity {
+    top: -180px;
+    right: 25%;
+}
+
+.pageBenchGriffintown {
+    top: 110px;
+    right: 5%;
+}
+
+.pageBenchPortuguese {
+    top: 300px;
+    right: 22%;
+    width: 50%;
+}
+
+.pageBenchW {
+    top:100px;
+    right: 15%;
+}
+
+.pageContent {
+    position:absolute;
+    z-index: 1;
+}
+
 
 .zoom {
     transition: transform .2s;;
   }
   
   .zoom:hover {
-    -ms-transform: scale(1.5);
-    -webkit-transform: scale(1.5);
-    transform: scale(1.5); 
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1); 
   }
