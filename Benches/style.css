@@ -19,6 +19,16 @@ body {
     text-align: center;
 }
 
+.navButtonsPages {
+    font-size: 12px;
+    line-height: 50px;
+    color: blue;
+    text-align: center;
+}
+
+.pages {
+    background: white !important;
+}
 
 .col-half-offset{
     margin-left:0%
